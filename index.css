@@ -1,11 +1,11 @@
 .header {
-    background-color: rgb(0, 255, 34);
+    background-color: #4CAF50;
     padding: 20px;
     text-align: center;
 }
 
 .footer {
-    background-color: rgb(0, 255, 34);
+    background-color: #4CAF50;
     padding: 20px;
 }
 .dropbtn {
