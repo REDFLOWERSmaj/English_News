@@ -62,3 +62,9 @@
 #btnTop:hover {
   background-color: #555;
 }
+
+.pub {
+    position: fixed;
+    bottom: 50px;
+    right: 20px;
+}
