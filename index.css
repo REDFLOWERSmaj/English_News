@@ -47,3 +47,18 @@
 .dropdown:hover .dropbtn {
   background-color: #3e8e41;
 }
+
+#btnTop {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #333;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+#btnTop:hover {
+  background-color: #555;
+}
