@@ -1,3 +1,14 @@
 body{
   background: rgb(181, 228, 231);
 }
+.title{
+	background: rbg(127,127,12);
+	margin-left: 10%;
+	text-align: center;
+	width: 80%;
+	border-radius: 15px;
+}
+.title h1{
+	color: rgb(0,0,0);
+	font-size: 40px;
+}
